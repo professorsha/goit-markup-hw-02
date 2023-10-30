@@ -1,7 +1,14 @@
 body{
     font-family: 'Roboto',sans-serif;
     color:#434455;
+    background-color: #ffffff;
 }
 a{
-    color:#434455;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.contact{
+    color:inherit;
 }
