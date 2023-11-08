@@ -11,11 +11,14 @@ ul {
 }
 .header {
   background-color: #e7e9fc;
+  
 }
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
 }
@@ -26,6 +29,8 @@ ul {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .link:hover,
 .link:focus,
@@ -46,11 +51,11 @@ ul {
   color: #ffffff;
 }
 .hero-title {
-  /* color: #ffffff; */
+  
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.07; /* 107.143% */
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 .hero-button {
@@ -65,18 +70,7 @@ ul {
 .hero-button:focus {
   background-color: #404bbf;
 }
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0, 0, 0, 0);
-  overflow: hidden;
-}
+
 .advantages {
   /* background-color: #fff; */
 }
