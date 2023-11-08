@@ -10,7 +10,7 @@ ul {
   list-style-type: none;
 }
 .header {
-  background-color: #e7e9fc;
+  
 
 }
 .logo {
@@ -61,7 +61,7 @@ ul {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 1.12px;
+  letter-spacing: 0,02em;
 }
 .hero-button {
   cursor: pointer;
@@ -84,7 +84,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0,02em;
 }
 .advantages-text{
   font-size: 16px;
@@ -100,7 +100,7 @@ ul {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .team-title {
